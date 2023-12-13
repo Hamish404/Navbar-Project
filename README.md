@@ -10,6 +10,6 @@ This repository contains code for a responsive navigation bar created with HTML,
 
 ## Contents
 
-- `index.html`: Defines the structure of the navbar.
+- `Navbar.html`: Defines the structure of the navbar.
 - `Navbar.css`: Contains styles for the navbar, links, and responsiveness.
 - `Navbar.js`: Implements toggle functionality for mobile view.
