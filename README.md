@@ -1,2 +1,15 @@
-# Navbar-Project
-This repository contains code for a responsive navbar built using HTML, CSS, and JavaScript. The navbar adapts smoothly to different screen sizes, offering a user-friendly navigation experience. It features a hamburger menu for smaller screens and showcases Font Awesome icons for social media links.
+# Responsive Navbar
+
+This repository contains code for a responsive navigation bar created with HTML, CSS, and JavaScript. The navbar is designed to provide a seamless browsing experience across various devices, adjusting its layout to fit different screen sizes.
+
+## Features
+
+- **Responsive Design:** Ensures optimal viewing on desktops, tablets, and mobile devices.
+- **Toggle Button:** Enables easy access to navigation links on smaller screens.
+- **Font Awesome Icons:** Stylishly integrated social media icons.
+
+## Contents
+
+- `index.html`: Defines the structure of the navbar.
+- `Navbar.css`: Contains styles for the navbar, links, and responsiveness.
+- `Navbar.js`: Implements toggle functionality for mobile view.
